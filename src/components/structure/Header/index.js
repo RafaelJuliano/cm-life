@@ -8,7 +8,7 @@ export default function Header() {
         <div className='header container'>
             <nav className='inside-container nav'>
                 <div className='logo'>
-                    <Link to='/'>
+                    <Link to='/cm-life'>
                         <h1>
                             <Image src='assets/logo.png' alt='Logo'/>
                         </h1>

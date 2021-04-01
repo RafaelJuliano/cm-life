@@ -15,7 +15,7 @@ export default function Especialidades() {
 
             <Navigation />
 
-            <ItemEspecialidade id='ortopedia' titulo='Ortopedia' texto='A ortopedia é a especialidade médica que cuida da saúde relacionadas aos elementos do aparelho locomotor, como ossos, músculos, ligamentos e articulações.' imagem='assets/ortopedia.png'>
+            <ItemEspecialidade id='ortopedia' titulo='Ortopedia' texto='A ortopedia é a especialidade médica que cuida da saúde relacionadas aos elementos do aparelho locomotor, como ossos, músculos, ligamentos e articulações.' imagem='../assets/ortopedia.png'>
                 <ItemTabela dias='Segunda e Quartas' horarios='14:00 às 21:00' medico='Dr. Daniel Souza' />
                 <ItemTabela dias='Terça, Quinta e Sexta' horarios='8:00 às 13:00' medico='Dra. Daniele Almeida' />
                 <ItemTabela dias='Sábado' horarios='8:00 às 21:00' medico='Dr. Manoel Bento' />

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cm-life/static/css/main.3d6880a8.chunk.css",
+    "main.js": "/cm-life/static/js/main.9c099143.chunk.js",
+    "main.js.map": "/cm-life/static/js/main.9c099143.chunk.js.map",
+    "runtime-main.js": "/cm-life/static/js/runtime-main.f82fc89c.js",
+    "runtime-main.js.map": "/cm-life/static/js/runtime-main.f82fc89c.js.map",
+    "static/js/2.e03dc003.chunk.js": "/cm-life/static/js/2.e03dc003.chunk.js",
+    "static/js/2.e03dc003.chunk.js.map": "/cm-life/static/js/2.e03dc003.chunk.js.map",
+    "static/js/3.df5a2c68.chunk.js": "/cm-life/static/js/3.df5a2c68.chunk.js",
+    "static/js/3.df5a2c68.chunk.js.map": "/cm-life/static/js/3.df5a2c68.chunk.js.map",
+    "index.html": "/cm-life/index.html",
+    "static/css/main.3d6880a8.chunk.css.map": "/cm-life/static/css/main.3d6880a8.chunk.css.map",
+    "static/js/2.e03dc003.chunk.js.LICENSE.txt": "/cm-life/static/js/2.e03dc003.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/cm-life/static/media/recepcao.9d187a83.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f82fc89c.js",
+    "static/js/2.e03dc003.chunk.js",
+    "static/css/main.3d6880a8.chunk.css",
+    "static/js/main.9c099143.chunk.js"
+  ]
+}

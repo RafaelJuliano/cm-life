@@ -1,0 +1,45 @@
+.sobre{
+    display: flex;
+    justify-content: center;
+    color: #444;
+    font-weight: thin;
+}
+
+.titulo{
+    text-align: center;
+    margin: 10px;
+}
+
+.home h3{
+    text-transform: uppercase;
+    margin: 20px;
+}
+
+.lista{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+.itens-lista{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.itens-lista ul{
+    margin-left: 60px;
+}
+
+@media (orientation: portrait), (max-width: 550px){
+    .medico{
+        display: none;
+    }
+    .itens-lista ul{
+        margin-left: 30px;
+    }
+}

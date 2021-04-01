@@ -1,0 +1,39 @@
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #00cad1;
+    height: auto;
+}
+
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+@media (orientation: portrait), (max-width: 550px){
+    .nav{
+        flex-direction: column;
+    }    
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+}
+
+.menu a{
+    text-decoration: none;
+    color: #eee;
+    font-size: 18px;
+    margin: 10px 20px;
+    padding-bottom: 2px;
+}
+
+.menu a:hover{
+    border-bottom: 2px solid #eee;
+    padding: 0;
+}

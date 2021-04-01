@@ -1,0 +1,18 @@
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./recepcao.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    width: 100vw;
+}
+
+.title h2{
+    color: #eee;
+    font-size: 50px;
+    text-transform: uppercase;
+    margin: 0 10px;
+}

@@ -1,0 +1,18 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: #00cad1;
+}
+
+.footer-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-box p{
+    color: #eee;
+    margin: 20px;
+    text-align: center;
+}

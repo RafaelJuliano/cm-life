@@ -1,0 +1,43 @@
+.item-especialidade{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.item-especialidade .inside-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    margin: 20px 0;
+}
+
+.item-especialidade .item-titulo{
+    text-align: center;
+    color: #444;
+}
+
+.item-especialidade .item-titulo h3{
+    margin: 20px 0;
+}
+
+.item-especialidade .item-titulo p{
+    padding: 0 10%;
+}
+
+.lista-horarios{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.lista-horarios img{
+    display: flex;
+    max-height: 30vh;
+}
+
+@media (max-width: 500px){
+    .lista-horarios img{display: none;}
+    .lista-horarios {flex-direction: column; align-items: center;}
+}

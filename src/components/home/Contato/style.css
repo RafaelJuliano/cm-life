@@ -1,0 +1,22 @@
+.contato{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #444;
+}
+
+.contato-info{
+    text-align: center;
+    margin: 20px 0;
+}
+
+.contato-info p{
+    margin-bottom: 20px;
+}
+
+.contato-info a{
+    text-decoration: none;
+    color:#444;
+}
+

@@ -30,7 +30,7 @@ export default function Especialidades() {
                     </a>
                 </div>
             </div>
-            <Link className='btn' to='cm-life/especialidades'>Ver horários</Link>
+            <Link className='btn' to='/especialidades'>Ver horários</Link>
         </div>
     );
 }

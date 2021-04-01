@@ -6,7 +6,7 @@ import HomePage from '../../paginas/HomePage'
 const Routes = () => (
   <BrowserRouter>
     <Switch>
-      <Route exact path='/' component = { HomePage } />
+      <Route exact path='/cm-life' component = { HomePage } />
       <Route path='/especialidades' component = { Especialidades } />
     </Switch>
   </BrowserRouter>

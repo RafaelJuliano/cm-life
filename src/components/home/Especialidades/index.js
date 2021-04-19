@@ -12,22 +12,22 @@ export default function Especialidades() {
             </div>
             <div className='inside-container esp-list'>
                 <div className='esp-box'>
-                    <a href='/'>
+                    <Link to='/cm-life/especialidades/#ortopedia'>
                         <Image className='esp-img' src='assets/ortopedia1.png' alt='Ortopedista' />
                         <p>Ortopedista</p>
-                    </a>
+                    </Link>
                 </div>
                 <div className='esp-box'>
-                    <a href='/'>
+                    <Link to='/cm-life/especialidades/#pediatria'>
                         <Image className='esp-img' src='assets/pediatra.png' alt='Pediatra' />
                         <p>Pediatra</p>
-                    </a>
+                    </Link>
                 </div>
                 <div className='esp-box'>
-                    <a href='/'>
+                    <Link to='/cm-life/especialidades/#geriatria'>
                         <Image className='esp-img' src='assets/geriatra.png' alt='Geriatra' />
                         <p>Geriatra</p>
-                    </a>
+                    </Link>
                 </div>
             </div>
             <Link className='btn' to='/cm-life/especialidades'>Ver horários</Link>

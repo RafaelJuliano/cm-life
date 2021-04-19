@@ -18,6 +18,10 @@
     .nav{
         flex-direction: column;
     }    
+    .menu{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
 }
 
 .menu{

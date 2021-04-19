@@ -16,9 +16,11 @@ export default function Header() {
                 </div>
 
                 <div className='menu'>
-                    <a href='#sobre'>Sobre</a>
-                    <a href='#especialidades'>Especialidades</a>
-                    <a href='#contato'>Contato</a>
+                    <Link to='/cm-life/'>Home</Link>
+                    <a href='/cm-life/#sobre'>Sobre</a>
+                    <a href='/cm-life/#especialidades'>Especialidades</a>
+                    <Link to='/cm-life/especialidades'>Horários</Link>
+                    <a href='/cm-life/#contato'>Contato</a>
                 </div>
             </nav>
         </div>
